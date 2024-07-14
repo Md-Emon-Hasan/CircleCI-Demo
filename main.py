@@ -1,4 +1,4 @@
-def add(a,b):
+def Add(a,b):
     return a + b
 
 def SayHello():
